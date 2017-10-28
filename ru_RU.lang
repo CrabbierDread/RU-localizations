@@ -2,7 +2,7 @@
 *   @Автор pixelmon.pro ( https://pixelmon.pro/ )
 *   
 *
-* Новый русский перевод, перевод, который был раньше имеет много ошибок и плохих переводов.
+* Новый русский перевод. Перевод, который был раньше имел много ошибок и плохих переводов.
 * Последний перевод был не полным. Вот почему я решил исправить его и добавить что-то новое. Добавить новое и актуальное!
 */
 
@@ -174,7 +174,7 @@ item.freeze_badge.name=Значок Мороза
 item.basic_badge.name=Базовый Значок
 item.trio_badge.name=Значок Трио
 item.bug_badge.name=Жучий Значок
-item.cliff_badge.name=Клиффский Значок
+item.cliff_badge.name=Значок Скалы
 item.rumble_badge.name=Нагрудный Значок
 item.plant_badge.name=Значок Растений
 item.voltage_badge.name=Значок Напряжения
@@ -418,7 +418,7 @@ item.assault_vest.name=Штурмовая Жилетка
 item.kee_berry.name=Ягод Ки
 item.maranga_berry.name=Ягода Маранга
 item.roseli_berry.name=Ягода Розали
-item.pixie_plate.name=Плита Пикси
+item.pixie_plate.name=Плита Феи
 item.luminous_moss.name=Светящийся мох
 item.safety_goggles.name=Защитные Очки
 item.snowball.name=Снежный Шар
@@ -478,7 +478,7 @@ item.charcoal.name=Уголёк
 item.dragon_fang.name=Клык Дракона
 item.hard_stone.name=Гранит
 item.magnet.name=Магнит
-item.metal_coat.name=Плащ Стали
+item.metal_coat.name=Стальной Плащ
 item.prism_scale.name=Радужная Чешуя
 item.miracle_seed.name=Чудо-Семя
 item.mystic_water.name=Тайная Вода
